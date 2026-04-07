@@ -2,7 +2,7 @@ add and remove the users
 change the roles
 
 manage the database
-closing database connection
+closing the database connection
 
 change 1
 change 2 in shiv database
